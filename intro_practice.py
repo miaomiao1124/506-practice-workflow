@@ -21,3 +21,4 @@ def final_score(exam,assignment):
         print('I am sorry, you have to retake the course')
 final_score(50,30)
 final_score(20,30)
+newvar_add_test=50
